@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: HitBox
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":135.4507,"y":-70.68001},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-68.0,"y":-135.0},"guid":"868b2c1c-ef25-479c-b7fd-29cda742f148","$version":"A","$type":"Unity.VisualScripting.OnTriggerEnter","$id":"9"},{"argumentCount":0,"defaultValues":{"name":{"$content":"hit","$type":"System.String"},"target":null},"position":{"x":234.0,"y":-156.0},"guid":"90ddf016-e116-4669-b723-dbaae978ea6f","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"11"},{"member":{"name":"parent","parameterTypes":null,"targetType":"UnityEngine.Transform","targetTypeName":"UnityEngine.Transform","$version":"A"},"defaultValues":{"target":null},"position":{"x":-68.0,"y":-3.0},"guid":"04c0543f-5873-4d64-94a8-d3f60336279b","$version":"A","$type":"Unity.VisualScripting.GetMember","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"89c9566e-4d48-4cb8-b2b6-0f2f0172eddd","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"target","guid":"81e68c91-6f4d-4ce9-9a18-d189aa9ea442","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
