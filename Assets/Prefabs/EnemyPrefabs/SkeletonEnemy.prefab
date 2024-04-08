@@ -14,9 +14,9 @@ GameObject:
   - component: {fileID: 1806820971807765547}
   - component: {fileID: 5824224589312945068}
   - component: {fileID: 4352699190433136745}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SkeletonEnemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -151,7 +151,7 @@ GameObject:
   m_Component:
   - component: {fileID: 11253327863044373}
   - component: {fileID: 8159070793922695711}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnemyAura
   m_TagString: Untagged
   m_Icon: {fileID: 0}

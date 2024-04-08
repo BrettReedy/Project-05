@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8275457488465583917}
   - component: {fileID: 2222643205038670350}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnemyAura
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,9 +106,9 @@ GameObject:
   - component: {fileID: 2101329886330396071}
   - component: {fileID: 1885011778050025574}
   - component: {fileID: 4793365766255187606}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: MinotaurEnemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
