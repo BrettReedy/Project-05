@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4774953475600222501}
   - component: {fileID: 5333504099866839012}
   - component: {fileID: 8035165002840228677}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -187,7 +187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4632763145630380975}
   - component: {fileID: 6787537107397065072}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Flashlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 1951516962093998987}
   - component: {fileID: 6749477963605127345}
   - component: {fileID: 3087035546689862611}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
