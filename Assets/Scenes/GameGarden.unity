@@ -460,6 +460,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MazeBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 7554749650010560586, guid: f249ebeabf5f0974c8b068b64ba6156d, type: 3}
+      propertyPath: m_NavMeshData
+      value: 
+      objectReference: {fileID: 23800000, guid: 630052d68064dfb4ba64ff1d35a02f74, type: 2}
     - target: {fileID: 7954215413366144113, guid: f249ebeabf5f0974c8b068b64ba6156d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 25
@@ -584,7 +588,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8770416106429174738, guid: 10240258a0093dd4f93e9453b94bbea4, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.014718
+      value: -15
       objectReference: {fileID: 0}
     - target: {fileID: 8770416106429174738, guid: 10240258a0093dd4f93e9453b94bbea4, type: 3}
       propertyPath: m_LocalRotation.w
@@ -629,7 +633,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 994228198929468454, guid: 803fc4290105789438ecd6190166f7fe, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.667827
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 994228198929468454, guid: 803fc4290105789438ecd6190166f7fe, type: 3}
       propertyPath: m_LocalPosition.y
@@ -637,7 +641,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 994228198929468454, guid: 803fc4290105789438ecd6190166f7fe, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.6313267
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 994228198929468454, guid: 803fc4290105789438ecd6190166f7fe, type: 3}
       propertyPath: m_LocalRotation.w
@@ -910,6 +914,14 @@ PrefabInstance:
     - target: {fileID: 5162544709372227955, guid: e27dc83f97af75443bedb6f1354af0b2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6787537107397065072, guid: e27dc83f97af75443bedb6f1354af0b2, type: 3}
+      propertyPath: m_Range
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6787537107397065072, guid: e27dc83f97af75443bedb6f1354af0b2, type: 3}
+      propertyPath: m_Intensity
+      value: 50
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
